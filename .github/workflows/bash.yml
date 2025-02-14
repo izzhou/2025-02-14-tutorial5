@@ -22,4 +22,4 @@ jobs:
           ls -a
 
       - name: Run multiple commands manually
-        run: bash scripts/bash.sh
+        run: bash scripts/list.sh
